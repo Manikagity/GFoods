@@ -1,0 +1,6 @@
+This is the page for instructions
+  In this app you can order food online through credit card or UPI and pay for the items you ordered
+  Now , once ordered the list of items will go to the Admin core and whenever the order is ready you will
+  get a message notification that your order is ready along with the order ID.
+  
+  This is only the user's app content if you want the ADMIN app content can email - manika.agrawal_cs16@gla.ac.in
